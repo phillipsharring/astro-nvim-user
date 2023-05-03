@@ -21,7 +21,7 @@ return {
     event = "User AstroFile",
     cmd = { "TodoQuickFix" },
     keys = {
-      { "<leader>T", "<cmd>TodoTelescope<cr>", desc = "Opten TODOs in Telescope" }
+      { "<leader>T", "<cmd>TodoTelescope<cr>", desc = "Open TODOs in Telescope" }
     }
   }
 }
