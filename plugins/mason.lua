@@ -33,4 +33,7 @@ return {
       })
     end,
   },
+  {
+    "fratajczak/one-monokai-vim"
+  }
 }
